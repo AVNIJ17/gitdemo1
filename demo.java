@@ -1,6 +1,6 @@
 classs demo(){
-psvm(){
-SOP("demo");
+public static void main(){
+System.out.println("demo");
 }
 }
 
